@@ -7,3 +7,6 @@ canonifyurls = true
 [params]
     description = "Thoughts on the Internet (and how it's broken), sci-fi/fantasy (and how it's broken), computer science (and how it's broken), and cats (and how they're fluffy)."
     author = "Skye"
+
+[taxonomies]
+    tag = "tags"
