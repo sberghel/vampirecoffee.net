@@ -71,4 +71,55 @@ I initally wound up setting up a `config.toml` file based on the
 [documentation about how _templates_ should use variables](http://gohugo.io/templates/variables/#site-variables:2b8b8ac4006be88c769f5e3fd99b009a),
 instead of the documentation on how _sites themselves_ should set the variables.
 
-### Weird Markdown Syntax Is Weird
+### Yet Another Markdown Syntax Flavor
+
+The syntax for tables is _almost_, but not quite, the same as the syntax that
+GitHub uses for Markdown tables. It looks like this:
+
+```
+headers | headers | headers
+--------|---------|--------
+cell    | cell | cell
+cell    | cell | cell
+```
+
+And if the dashes are too short, then the table won't render at all. So you
+can't just do this:
+
+```
+header | header | header
+---|---|---
+cell | cell | cell
+cell | cell | cell
+```
+
+I wish there was only one flavor of Markdown, instead of every single implementation
+having slightly different flavors of Markdown. Oh well.
+
+## Still Pretty Awesome, Though
+
+What I spent most of my time doing wasn't writing Markdown, or changing configuration
+variables, or changing the front page. I spent most of my time _actually writing
+my Hugo post_. It was _really_ useful for me to be able to write the post in
+a pretty simple markup language and then convert it to HTML through software.
+
+### The Deployment Process Is Ridiculously Simple
+
+I was able to deploy my site to my webhost by generating all the HTML files and
+copying them over to my webhost. That's it. That was the entire process.
+
+## Should You Use Hugo?
+
+If you want to put up slideshows of your photos, probably not.
+If you want to make a bunch of AJAX calls to a database to dynamically
+display data, _definitely not_.
+
+But if you're hosting your own site,
+your content is mostly written[^1],
+and you're ok having almost no dynamic content[^2],
+Hugo is probably a good choice.
+
+
+[^1]: Not multimedia, not full of Javascript animations, etc.
+
+[^2]: Hugo supports Disqus comments. This is the extent of its dynamic content support.
