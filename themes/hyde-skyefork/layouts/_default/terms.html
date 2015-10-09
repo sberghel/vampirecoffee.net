@@ -1,0 +1,19 @@
+{{ partial "head.html" . }}
+<body class="{{ .Site.Params.themeColor }}">
+    {{ partial "sidebar.html" . }}
+
+    <div class="content container">
+        <div class="post">
+            <h1 id="title">{{ .Title }}</h1>
+
+            <ul>
+                {{ $data := .Data }}
+                {{ range $key, $value := .Data.Terms }}
+                    <li><a href="{{ $key | urlize }}">{{ $key }}</a> {{ len $value }}</li>
+                {{ end }}
+            </ul>
+        </div>
+    </div>
+
+</body>
+</html>

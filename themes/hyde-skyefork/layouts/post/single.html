@@ -18,7 +18,7 @@
             <ul id="tags">
                 <span>Tagged with:</span>
                 {{ range sort .Params.tags }}
-                    <li><a href="tags/{{. | urlize }}">{{ . }}</a>
+                    <li><a href="/tags/{{ . | urlize }}">{{ . }}</a>
                 {{ end }}
             </ul>
             {{ end }}
