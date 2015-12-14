@@ -255,10 +255,10 @@ Note: the flavor text tips may contain spoilers.
 * Every time you level up, your Health increases and you get to choose a new perk.
 * Pre-war military checkpoints, scattered throughout the Commonwealth, are a great place to find Fusion Cores.
 * To talk to a person, activate them while standing up. To attempt a pickpocket, activate them while in Sneak mode.
-* Successful attacks in VATS build your Critical meter. Once the meter is filled, you can unleash a devastating attack.[^4]
+* Successful attacks in VATS build your Critical meter. Once the meter is filled, you can unleash a devastating attack.[^5]
 * When you steal an item, the owner will generally attempt to take it back from you. If they can't, they may attack.
 * To cure addiction, visit a doctor in any major settlement.
-* Doctors, located in most settlements, provide a variety of services. They can heal all wounds (including crippled limbs), cure radiation damage, adn cure addiction to chems and alcohol. Most of them also sell medical supplies.
+* Doctors, located in most settlements, provide a variety of services. They can heal all wounds (including crippled limbs), cure radiation damage, and cure addiction to chems and alcohol. Most of them also sell medical supplies.
 * Want to change your hairstyle? Visit a barber in one of the major settlements.
 * Tired of the same old look? A reconstructive surgeon can give you a whole new face...
 * When you get a new quest, it will not become active unless you have no other active quests. Check the Quests section in your Pip-Boy to see which quests are active.
