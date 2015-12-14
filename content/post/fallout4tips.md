@@ -1,6 +1,6 @@
 +++
-date = "2015-12-06T12:30:19-08:00"
-draft = true
+date = "2015-12-13T19:06:04-08:00"
+draft = false
 title = "Fallout 4 Tips (from the Loading Screens)"
 tags = ["video games","fallout 4"]
 
