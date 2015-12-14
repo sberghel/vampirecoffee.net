@@ -2,6 +2,7 @@
 date = "2015-12-06T12:30:19-08:00"
 draft = true
 title = "Fallout 4 Tips (from the Loading Screens)"
+tags = ["video games","fallout 4"]
 
 +++
 
@@ -14,6 +15,8 @@ the tip for "Attack Dog", a perk that affects Dogmeat - have been duplicated so
 that they appear once under each header.
 
 Note: the flavor text tips may contain spoilers.
+
+<!--more-->
 
 ### Useful Tips
 

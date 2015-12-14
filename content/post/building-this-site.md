@@ -7,11 +7,11 @@ tags = ["computers","web","meta","gohugo.io"]
 
 I've had a couple people ask me how I built this site. This is the short version.
 
-## Hugo
-
 I used [Hugo](http://gohugo.io) to build my website.
 This means that my first two posts are both "about Hugo", which is confusing.
 Oh well.
+
+<!--more-->
 
 ## The Cool Thing
 
