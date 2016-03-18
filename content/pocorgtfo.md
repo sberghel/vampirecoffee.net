@@ -36,6 +36,8 @@ The following issues of PoC||GTFO are available from this mirror:
 
 * [PoC||GTFO 10]({{<staticref "pocorgtfo/pocorgtfo10.pdf">}}) (or should that be Poc||GTFO 0x0a?). January 2016. _In the theater of literate disassembly, Pastor Manul Laphroaig and his merry band of Reverse Engineers lift the welded hood from The Engine That Runs The World!_.
 
+* [PoC||GTFO 11]({{<staticref "pocorgtfo/pocorgtfo11.pdf">}}). March 2016. _In a fit of stubborn optimism, Pastor Manul Laphroaig and his clever crew Set Sail Toward welcoming shores of The Great Unknown!_.
+
 #### sha256sums
 
 ```
@@ -50,4 +52,5 @@ bf4d8846fbbb1071c7ec033004eda8ea8809676fe388db6faa020d781cb8ac26  pocorgtfo06.pd
 7a942c425f471f99d8cba8da117cc4a53cddb3551e4b16c8b9feae31b5654a33  pocorgtfo08.pdf
 8ad70d4dd0c0f53e8c479d1d573e5a365ea673acafa9fd61fa5231e18502a6ad  pocorgtfo09.pdf
 1e350e30383fd332678654b6067fe4b6ea3d25d7f41a24a4c81fe913b295c9de  pocorgtfo10.pdf
+44d56d717c7b3baf7e11aa6624d5a80a90b132a519e61b9682a5f4a635b04c78  pocorgtfo11.pdf
 ```
